@@ -1,0 +1,68 @@
+/* AWWWARDS */
+
+#awwwards{
+	position: absolute;
+	top: 20px;
+	width: 90px;
+	height: 135px;
+	text-indent: -666em;
+	overflow: hidden;
+	z-index: 999;
+
+	-webkit-transition: all 1s ease;
+    transition: all 1s ease; 
+}
+#awwwards.top{
+	top: 20px;
+}
+#awwwards.left{
+	left: 0;
+}
+#awwwards.right{
+	right: 0;
+}
+
+#awwwards a{
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 90px;
+	height: 135px;
+	background-repeat: no-repeat;
+	background-size: 90px 135px;
+}
+
+
+
+
+/* CSSDA */
+
+#cssda {
+
+	position: absolute;
+	top: 0px;
+	width: 125px;
+	height: 125px;
+	text-indent: -666em;
+	overflow: hidden;
+	z-index: 999;
+
+	-webkit-transition: all 1s ease;
+    transition: all 1s ease; 
+}
+
+#cssda a{
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 125px;
+	height: 125px;
+	background-repeat: no-repeat;
+	background-size: 125px 125px;
+}
+
+
+
+
